@@ -1,1 +1,3 @@
 tif_source/*
+__pycache__
+*.sld
